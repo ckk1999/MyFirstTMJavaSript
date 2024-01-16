@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hello world!
 // @namespace    http://tampermonkey.net/
-// @version      2024-01-16
+// @version      version 2.0
 // @description  try to take over the world!yes!
 // @author       ckk
 // @match        *://*
@@ -14,5 +14,5 @@
     'use strict';
 
     // Your code here...
-    console.log('hello world')
+    console.log('hello world2.0')
 })();
